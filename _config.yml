@@ -71,13 +71,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "rajitunmise@gmail.com"
   github: daattali
-  twitter: daattali
+  twitter: raji_tunmise
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: https://www.linkedin.com/in/tunmise-raji/
+  linkedin: tunmise-raji/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -92,7 +92,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
