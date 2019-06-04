@@ -25,7 +25,7 @@ description: Tunmise Raji's profile
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Github profile: https://github.com/tunmiseraji
+    - Github profile: "https://github.com/tunmiseraji"
     - Google scholar page: 
 
 
@@ -35,7 +35,7 @@ avatar: "/img/pic.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/pic.jpeg"
+#title-img: "/img/pic.jpeg"
 
 # --- Background colour/image options --- #
 
