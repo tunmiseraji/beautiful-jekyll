@@ -9,10 +9,10 @@ My name is Tunmise Raji and I am interested in energy project development in the
 
 
 ### Education
-* [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/)
+* [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/)  
 _Master's degree in Electrical and Computer Engineering_
 
-* [**University of Ibadan**](https://www.ui.edu.ng/)
+* [**University of Ibadan**](https://www.ui.edu.ng/)  
 _Bachelors degree in Electrical and Electronic Engineering_
 
 
