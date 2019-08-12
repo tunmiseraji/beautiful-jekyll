@@ -4,7 +4,7 @@ title: About me
 subtitle: Bio
 ---
 
-I am a design engineer at [Equatorial Power](http://equatorial-power.com), an energy company based in Uganda. I am interested in sustainable energy project development and I believe renewable energy systems have a key role to play in reducing the energy poverty in the Global South. I received my masters degree in Electrical and Computer Engineering from Carnegie Mellon University and my bachelors degree was from the University of Ibadan. My areas of expertise are mini-grid design and sizing and financial modelling of energy systems.
+I am a design engineer at [Equatorial Power](http://equatorial-power.com), an energy company based in Uganda. I am interested in sustainable energy project development and I believe renewable energy systems have a key role to play in reducing the energy poverty in the Global South. I received my masters degree in Electrical and Computer Engineering from Carnegie Mellon University and my bachelors degree was from the University of Ibadan. My areas of expertise are mini-grid design and sizing, power system data analysis, and financial modelling of energy systems.
 
 
 
