@@ -24,5 +24,5 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 | 3   | Phone charger   | 
 | 4   | Electric kettle | 
 | 5   | Television      | 
-| 6   | Microwave       | 
-| 7   | Iron            | 
+| 2013 | Etisalat Merit Scholarship | 
+| 2013 | Agbami Medical and Engineering Professionals Scholarship Award | 
