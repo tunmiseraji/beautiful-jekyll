@@ -17,6 +17,8 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 2011 - 2016: [**University of Ibadan**](https://www.ui.edu.ng/) (BSc in Electrical and Electronic Engineering)
 
 ### Awards
+
+
 | Year | Award                                                          |
 |------|----------------------------------------------------------------|
 | 2018 | MasterCard Foundation Scholarship                              |
