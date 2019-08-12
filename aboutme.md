@@ -18,7 +18,7 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 
 ### Awards
 | Year | Award                                                          | 
-|----- |----------------------------------------------------------------|
+|------|----------------------------------------------------------------|
 | 2018 | MasterCard Foundation Scholarship                              | 
 | 2014 | MTN Foundation Scholarship                                     | 
 | 2013 | Etisalat Merit Scholarship                                     | 
