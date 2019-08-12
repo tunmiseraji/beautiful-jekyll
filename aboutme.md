@@ -23,7 +23,7 @@ _Drilling Intern_
 _Intern_
 
 ### Timeline
-2019 - Now: Design Engineer at [Equatorial Power](http://equatorial-power.com)   
+2019 - Now: Design Engineer at [**Equatorial Power**](http://equatorial-power.com)   
 2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (MSc in Electrical and Computer Engineering)   
 Summer 2016: Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)    
 Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
