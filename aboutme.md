@@ -19,10 +19,7 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 ### Awards
 | Year | Award          | 
 |-----|-----------------|
-| 1   | Light bulb      | 
-| 2   | Laptop charger  | 
-| 3   | Phone charger   | 
-| 4   | Electric kettle | 
-| 5   | Television      | 
+| 2018 | MasterCard Foundation Scholarship | 
+| 2014 | MTN Foundation Scholarship | 
 | 2013 | Etisalat Merit Scholarship | 
 | 2013 | Agbami Medical and Engineering Professionals Scholarship Award | 
