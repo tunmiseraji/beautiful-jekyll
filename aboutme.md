@@ -22,3 +22,5 @@ _Drilling Intern_
 * [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
 _Intern_
 
+### Timeline
+2011 - 2016: University of Ibadan
