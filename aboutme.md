@@ -16,3 +16,13 @@ Summer 2016: Internship at [**Schlumberger D&M**](https://www.slb.com/services/d
 Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
 2011 - 2016: [**University of Ibadan**](https://www.ui.edu.ng/) (BSc in Electrical and Electronic Engineering)
 
+### Awards
+| Year | Award          | 
+|-----|-----------------|
+| 1   | Light bulb      | 
+| 2   | Laptop charger  | 
+| 3   | Phone charger   | 
+| 4   | Electric kettle | 
+| 5   | Television      | 
+| 6   | Microwave       | 
+| 7   | Iron            | 
