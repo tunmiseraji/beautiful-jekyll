@@ -23,3 +23,14 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 | 2014 | MTN Foundation Scholarship                                     | 
 | 2013 | Etisalat Merit Scholarship                                     | 
 | 2013 | Agbami Medical and Engineering Professionals Scholarship Award | 
+
+
+| S/N | Appliances      | Ratings (W) | Energy used in a   year (Wh) |
+|-----|-----------------|-------------|------------------------------|
+| 1   | Light bulb      | 25          | 219000                       |
+| 2   | Laptop charger  | 100         | 438000                       |
+| 3   | Phone charger   | 10          | 21900                        |
+| 4   | Electric kettle | 3000        | 547500                       |
+| 5   | Television      | 100         | 73000                        |
+| 6   | Microwave       | 1500        | 273750                       |
+| 7   | Iron            | 1000        | 182500                       |
