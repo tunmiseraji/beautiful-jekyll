@@ -23,4 +23,7 @@ _Drilling Intern_
 _Intern_
 
 ### Timeline
-2011 - 2016: University of Ibadan
+Summer 2016: Drilling Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx) 
+Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/) 
+2011 - 2016: University of Ibadan (BSc in Electrical and Electronic Engineering)
+
