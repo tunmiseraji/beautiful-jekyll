@@ -8,19 +8,6 @@ I am a design engineer at [Equatorial Power](http://equatorial-power.com), an en
 
 
 
-### Education
-* [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/)  
-_Master's degree in Electrical and Computer Engineering_
-
-* [**University of Ibadan**](https://www.ui.edu.ng/)  
-_Bachelors degree in Electrical and Electronic Engineering_
-
-
-### Experience
-* [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)  
-_Drilling Intern_
-* [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
-_Intern_
 
 ### Timeline
 2019 - Now: Design Engineer at [**Equatorial Power**](http://equatorial-power.com)   
