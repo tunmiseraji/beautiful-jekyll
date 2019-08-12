@@ -4,7 +4,7 @@ title: About me
 subtitle: Bio
 ---
 
-My name is Tunmise Raji and I am interested in energy project development in the Global South. I believe renewable energy systems have a key role to play in reducing the energy poverty in Africa and for the last 2 years, I have been focused on gaining expertise in the technological and commercial aspects of these systems. I am currently an electrical design engineer at [Equatorial Power](http://equatorial-power.com) where I perform demand analysis and systems sizing of the company's mini-grids.
+I am a design engineer at [Equatorial Power](http://equatorial-power.com), an energy company based in Uganda. I am interested in sustainable energy project development and I believe renewable energy systems have a key role to play in reducing the energy poverty in the Global South. I received my masters degree in Electrical and Computer Engineering from Carnegie Mellon University and my bachelors degree was from the University of Ibadan. My area of expertise are mini-grid design and sizing, and financial and technical modelling of energy systems.
 
 
 
