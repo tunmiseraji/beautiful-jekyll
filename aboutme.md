@@ -23,6 +23,7 @@ _Drilling Intern_
 _Intern_
 
 ### Timeline
+2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (MSc in Electrical and Computer Engineering)
 Summer 2016: Drilling Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)    
 Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
 2011 - 2016: University of Ibadan (BSc in Electrical and Electronic Engineering)
