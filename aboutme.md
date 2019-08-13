@@ -22,7 +22,7 @@ Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org
 | Year | Award                                                          |
 |------|----------------------------------------------------------------|
 | 2018 | MasterCard Foundation Scholarship                              |
-| ---- | Dean's Honor List (2011/2012, 2012/2013, 2013/2014)            |
+| -- -- | Dean's Honor List (2011/2012, 2012/2013, 2013/2014)            |
 | 2014 | MTN Foundation Scholarship                                     |
 | 2013 | Etisalat Merit Scholarship                                     |
 | 2013 | Agbami Medical and Engineering Professionals Scholarship Award |
