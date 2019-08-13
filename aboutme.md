@@ -11,10 +11,10 @@ I am a design engineer at [Equatorial Power](http://equatorial-power.com), an en
 
 ### Timeline
 2019 - Now: Design Engineer at [**Equatorial Power**](http://equatorial-power.com)   
-2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (MSc in Electrical and Computer Engineering)   
+2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (M.Sc. in Electrical and Computer Engineering)   
 Summer 2016: Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)    
 Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
-2011 - 2016: [**University of Ibadan**](https://www.ui.edu.ng/) (BSc in Electrical and Electronic Engineering)
+2011 - 2016: [**University of Ibadan**](https://www.ui.edu.ng/) (B.Sc. in Electrical and Electronic Engineering)
 
 ### Awards
 
