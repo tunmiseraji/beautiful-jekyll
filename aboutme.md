@@ -9,7 +9,7 @@ I am a Ph.D. student at the Golisano Institute of Sustainability at Rochester In
 ### Timeline
 2021 - Present: Ph.D. student at [**Rochester Institute of Technology**](https://www.rit.edu/)  
 2019 - 2020: Technical Analyst at [**Equatorial Power**](http://equatorial-power.com)   
-2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (M.Sc. in Electrical and Computer Engineering)   
+2018 - 2019: [**Carnegie Mellon University**](https://www.africa.engineering.cmu.edu/) (M.Sc. in Electrical and Computer Engineering)   
 Summer 2016: Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)    
 Summer 2015: Internship at [**Transmission Company of Nigeria**](https://tcn.org.ng/)  
 2011 - 2016: [**University of Ibadan**](https://www.ui.edu.ng/) (B.Sc. in Electrical and Electronic Engineering)
