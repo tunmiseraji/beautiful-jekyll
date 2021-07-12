@@ -7,7 +7,7 @@ subtitle: Bio
 I am a Ph.D. student at the Golisano Institute of Sustainability at Rochester Institute of Technology. My current area of interest lies in exploring potential applications of remote sensing in the energy-agriculture nexus of sub-Saharan Africa. I am generally interested in all aspects sustainable infrastructure development in the Africa.
 
 ### Timeline
-2021 - Present: Ph.D. student at [**Rochester Institute of Technology**](https://www.rit.edu/)
+2021 - Present: Ph.D. student at [**Rochester Institute of Technology**](https://www.rit.edu/)  
 2019 - 2020: Technical Analyst at [**Equatorial Power**](http://equatorial-power.com)   
 2018 - 2019: [**Carnegie Mellon University Africa**](https://www.africa.engineering.cmu.edu/) (M.Sc. in Electrical and Computer Engineering)   
 Summer 2016: Internship at [**Schlumberger D&M**](https://www.slb.com/services/drilling.aspx)    
